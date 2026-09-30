@@ -1,4 +1,4 @@
-# 1B – Prediksi Harga Penjualan Mobil Bekas (USD)
+# Prediksi Harga Penjualan Mobil Bekas (USD)
 
 Model *deep learning* (ANN regresi) untuk menaksir **harga jual mobil bekas** pada anak perusahaan dealer otomotif. Seluruh harga dinyatakan dalam **USD**.
 
